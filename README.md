@@ -1,11 +1,11 @@
+# QuizMaster-App
 
-  # QuizMaster Challenge Design
+Simple quiz with count timer and leaderboard
 
-  This is a code bundle for QuizMaster Challenge Design. The original project is available at https://www.figma.com/design/jFYAOO6uTvZ5SgVAysvMEh/QuizMaster-Challenge-Design.
+This is a code bundle for QuizMaster Challenge Design. The original project is available at https://www.figma.com/design/jFYAOO6uTvZ5SgVAysvMEh/QuizMaster-Challenge-Design.
 
-  ## Running the code
+## Running the code
 
-  Run `npm i` to install the dependencies.
+Run `npm i` to install the dependencies.
 
-  Run `npm run dev` to start the development server.
-  
+Run `npm run dev` to start the development server.
